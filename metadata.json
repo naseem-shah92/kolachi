@@ -1,0 +1,6 @@
+{
+  "name": "Kolachi Do Darya Karachi",
+  "description": "An ultra-premium, luxury digital fine-dining experience for the iconic seaside restaurant Kolachi Do Darya in Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
