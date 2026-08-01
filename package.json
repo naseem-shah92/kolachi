@@ -1,7 +1,10 @@
 {
-  "name": "react-example",
-  "private": true,
+  "name": "kolachi-do-darya",
   "version": "0.0.0",
+  "description": "An ultra-premium, luxury digital fine-dining experience for the iconic seaside restaurant Kolachi Do Darya in Karachi.",
+  "author": "Muhammad Aaban Shah",
+  "license": "MIT",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

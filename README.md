@@ -1,20 +1,23 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <h1>Kolachi Do Darya — Karachi</h1>
+  <p><b>An Ultra-Premium Digital Fine-Dining Experience</b></p>
 </div>
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+A luxury digital experience website for the iconic seaside restaurant **Kolachi Do Darya** in Karachi, with menu, gallery, reservation form, and cart-based ordering.
 
-View your app in AI Studio: https://ai.studio/apps/944dd9f2-086b-40a8-96eb-9cabe0c57636
+## Tech Stack
 
-## Run Locally
+React 19, TypeScript, Vite 6, Tailwind CSS 4, Framer Motion, Express
 
-**Prerequisites:**  Node.js
+## Getting Started
 
+1. `npm install`
+2. Set `GEMINI_API_KEY` in `.env.local`
+3. `npm run dev`
+4. `npm run build`
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+
+**Muhammad Aaban Shah**
